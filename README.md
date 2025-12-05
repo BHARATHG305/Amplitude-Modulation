@@ -102,7 +102,7 @@ Output Waveform
 
 
 TABULATION:
-![WhatsApp Image 2025-10-28 at 10 52 20 AM](https://github.com/user-attachments/assets/36e23555-3fcb-4318-b928-89493b1e53d1)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4388c0a3-41d7-498d-b30d-a0e4ca75be76" />
 
 
 
